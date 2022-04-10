@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<menu>
+
+
+<plato tipo='Tapas'>
+<nombre>Patatas del Barça con salsa tiki taka</nombre>
+<precio> 6,55 </precio>
+<descripcion>Patatas bravas caseras cortadas en forma de balón con salsa picante </descripcion>
+<calorias>503 kcal </calorias>
+<caracteristicas><item>img/singluten.svg </item>
+<item>img/compartir.png </item>
+<item>img/picante.png</item>
+</caracteristicas>
+</plato>
+
+
+<plato tipo='Tapas'>
+<nombre>Pan tumaca </nombre>
+<precio> 5,36 </precio>
+<descripcion>Pan, tomate, aceite de oliva, ajo </descripcion>
+<calorias>489 kcal </calorias>
+<caracteristicas><item>img/compartir.png </item></caracteristicas>
+</plato>
+
+
+
+<plato tipo='Tapas'>
+<nombre>Croquetas tradicionales </nombre>
+<precio> 8,36 </precio>
+<descripcion> Croquetas caseras rellenas de jamón</descripcion>
+<calorias>600 kcal </calorias>
+<caracteristicas>
+<item>img/compartir.png </item></caracteristicas>
+</plato>
+
+<plato tipo='Ensaladas'>
+<nombre>Lórdica</nombre>
+<precio> 8,20 </precio>
+<descripcion>Lechuga, tomate, olivas, salsa rosa </descripcion>
+<calorias>220 kcal </calorias>
+<caracteristicas>
+<item>img/singluten.svg</item>
+<item> img/ensalada.png</item>
+</caracteristicas>
+</plato>
+
+
+<plato tipo='Ensaladas'>
+<nombre>Señor Atún </nombre>
+<precio> 7,95 </precio>
+<descripcion>Lechuga, tomate, olivas, cebolla, endibias, atún, huevo duro, mayonesa </descripcion>
+<calorias>250 kcal </calorias>
+<caracteristicas><item>img/singluten.svg </item>
+<item> img/pescado.svg</item>
+<item> img/ensalada.png</item></caracteristicas>
+</plato>
+
+
+<plato tipo='Pizzas'>
+<nombre>Margarita </nombre>
+<precio> 7,90</precio>
+<descripcion>Mozzarela, tomate, orégano </descripcion>
+<calorias> 690 kcal</calorias>
+<caracteristicas>
+<item>img/compartir.png </item></caracteristicas>
+</plato>
+
+
+
+<plato tipo='Pizzas'>
+<nombre>Cuatro estaciones </nombre>
+<precio> 9,65</precio>
+<descripcion>Mozzarela, tomate, orégano, york, anchoas, atún, champiñones </descripcion>
+<calorias> 736 kcal</calorias>
+<caracteristicas><item>img/pescado.svg </item>
+<item>img/compartir.png </item></caracteristicas>
+</plato>
+
+<plato tipo='Pizzas'>
+<nombre>Serrana </nombre>
+<precio> 10,60</precio>
+<descripcion>Mozzarela, tomate, orégano, serrano, huevo </descripcion>
+<calorias> 896 kcal</calorias>
+<caracteristicas><item> img/singluten.svg</item>
+<item>img/compartir.png </item></caracteristicas>
+</plato>
+
+
+
+
+<plato tipo='Combinado'>
+<nombre> LORD TORTILLA</nombre>
+<precio> 10,89 </precio>
+<descripcion>Tortilla de patatas, cebolla, chorizo </descripcion>
+<calorias>520 kcal </calorias>
+<caracteristicas><item>img/carne.png </item>
+<item>img/compartir.png </item></caracteristicas>
+</plato>
+
+
+
+<plato tipo='Combinado'>
+<nombre>Escalopa con patatas </nombre>
+<precio> 9,50 </precio>
+<descripcion> Bistec de ternera rebozado, con patatas caseras </descripcion>
+<calorias> 833 kcal </calorias>
+<caracteristicas><item> img/carne.png</item></caracteristicas>
+</plato>
+
+<plato tipo='Combinado'>
+<nombre> LA XAVINETA</nombre>
+<precio> 9,99</precio>
+<descripcion> Garbanzos con tomate frito , harmburgeusa de pollo </descripcion>
+<calorias> 786 kcal</calorias>
+<caracteristicas><item>img/carne.png </item>
+<item>img/destacado.png </item></caracteristicas>
+</plato>
+
+<plato tipo='Combinado'>
+<nombre> Arroz a la cubana</nombre>
+<precio> 10,86</precio>
+<descripcion> Arroz con tomate frito, salchichas, huevo frito </descripcion>
+<calorias> 743 kcal</calorias>
+<caracteristicas><item>img/carne.png </item></caracteristicas>
+</plato>
+
+
+<plato tipo='Combinado'>
+<nombre> Canelones rebeldes</nombre>
+<precio >9,36 </precio>
+<descripcion> Canelón casero con patatas al horno</descripcion>
+<calorias> 918 kcal</calorias>
+<caracteristicas><item>img/carne.png </item></caracteristicas>
+</plato>
+
+
+<plato tipo='Sandwich'>
+<nombre> KING BACON</nombre>
+<precio> 4,95</precio>
+<descripcion> Lechuga, tomate, mayonesa, bacon, huevo frito </descripcion>
+<calorias> 555 kcal</calorias>
+<caracteristicas><item> img/sandwich.png</item><item>img/destacado.png </item></caracteristicas>
+</plato>
+
+
+
+<plato tipo='Sandwich'>
+<nombre>Bikini</nombre>
+<precio> 2,90 </precio>
+<descripcion>Sandwich de jamón york y queso </descripcion>
+<calorias> 444 kcal</calorias>
+<caracteristicas>
+<item> img/sandwich.png</item>
+
+</caracteristicas>
+</plato>
+
+<plato tipo='Sandwich'>
+<nombre>ALTA MAR </nombre>
+<precio> 6,36 </precio>
+<descripcion>Lechuga,tomate, atún, salmón </descripcion>
+<calorias> 500 kcal</calorias>
+<caracteristicas><item> img/sandwich.png</item><item> img/pescado.svg</item>
+</caracteristicas>
+</plato>
+
+
+<plato tipo='Postres'>
+<nombre> Tarrina de dos bolas </nombre>
+<precio> 3,95 </precio>
+<descripcion> A elegir entre: chocolate, nata, fresa y vainilla </descripcion>
+<calorias>395 kcal </calorias>
+<caracteristicas><item>img/destacado.png </item><item>img/singluten.svg </item>
+
+</caracteristicas>
+</plato>
+
+
+
+<plato tipo='Postres'>
+<nombre>Bizcocho vicioso </nombre>
+<precio> 4,75</precio>
+<descripcion>Bizcocho de manzana  </descripcion>
+<calorias>400 kcal </calorias>
+<caracteristicas><item>  img/casa.png</item></caracteristicas>
+</plato>
+
+<plato tipo='Postres'>
+<nombre>Brownie</nombre>
+<precio> 4,25</precio>
+<descripcion> Browniw relleno de cholate negro </descripcion>
+<calorias>420 kcal </calorias>
+<caracteristicas><item> img/casa.png</item></caracteristicas>
+</plato>
+
+<plato tipo='Postres'>
+<nombre> Tarta de queso</nombre>
+<precio> 4,95 </precio>
+<descripcion> Tarta de queso con sirope de frambuesa </descripcion>
+<calorias> 400 kcal</calorias>
+<caracteristicas>
+<item> img/casa.png</item><item>img/singluten.svg  </item></caracteristicas>
+</plato>
+
+
+
+
+
+</menu>
